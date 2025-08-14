@@ -20,13 +20,14 @@ Practicar:
    let titulo = document.querySelector('h1');
    titulo.innerHTML = 'Hora del Desafío';
 
-Al cargar la página, el texto del <h1> cambia a "Hora del Desafío".
+Al cargar la página, el texto del ```<h1>``` cambia a "Hora del Desafío".
 
 2.Mostrar mensaje en la consola
 
 function mostarMensajeEnLaConsola() {
     console.log('El botón fue clicado!')
-}
+} 
+
 Botón: Console → Al hacer clic, se muestra el mensaje en la consola.
 
 3.Mostrar alerta con una ciudad ingresada por el usuario
