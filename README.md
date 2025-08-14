@@ -70,7 +70,7 @@ El objetivo es que, a través de botones en una página web, puedas ejecutar dis
 ## 🛠 Tecnologías Utilizadas
 
 - **HTML** → Estructura de la página.
-- **CSS3** → Estilos (en `style.css`).
+- **CSS** → Estilos (en `style.css`).
 - **JavaScript** → Lógica e interactividad.
 
 ---
